@@ -66,6 +66,23 @@ Download |
 [Download](https://www.ncei.noaa.gov/products/world-ocean-atlas) | 
 [Citation](https://www.ncei.noaa.gov/products/world-ocean-atlas)
 
+- Modern-Era Retrospective analysis for Research and Applications, Version 2 (**MERRA-2**) @ [NASA GMAO](https://gmao.gsfc.nasa.gov/) <br>
+[Description](https://gmao.gsfc.nasa.gov/gmao-products/merra-2/) | 
+[Download](https://disc.gsfc.nasa.gov/datasets?project=MERRA-2) | 
+[How to cite](https://gmao.gsfc.nasa.gov/gmao-products/merra-2/citing-merra-2-data_merra-2/)
+
+- NCEP Global Ocean Data Assimilation System (**GODAS**) @ [NOAA NCEP CPC](https://www.cpc.ncep.noaa.gov/) <br>
+[Description](https://www.cpc.ncep.noaa.gov/products/GODAS/) | 
+[Download](https://www.psl.noaa.gov/data/gridded/data.godas.html) | 
+[How to cite](https://www.psl.noaa.gov/data/gridded/data.godas.html)
+
+- Estimated state of ocean for climate research Version:06a (**ESTOC**) @ [JAMSTEC](https://www.jamstec.go.jp/e/)
+[Description](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html) | 
+[Download](https://www.godac.jamstec.go.jp/jagdas/catalog/estoc/catalog.html) | 
+[How to cite](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html)
+
+
+
 Note
 ---
 
@@ -122,7 +139,6 @@ To be collected:
 <details>
 <summary>In-stu observation</summary>
 
-- Argo Floats
 - TAO/TRITON / PIRATA / RAMA (for ENSO)
 - ...... 
 </details>
