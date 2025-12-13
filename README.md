@@ -20,15 +20,22 @@ Here are some commonly used datasets:
 [Download](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html) |
 [Citation](https://doi.org/10.1175/JCLI-D-20-0166.1)
 
-- International Best Track Archive for Climate Stewardship (IBTrACS) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+- International Best Track Archive for Climate Stewardship (**IBTrACS**) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
 [Description](https://www.ncei.noaa.gov/products/international-best-track-archive) | 
 [Download](https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/netcdf/) |
 [Citation](https://doi.org/10.25921/82ty-9e16)
 
-- Results of MITgcm on LLC (e.g. LLC4320, LLC2160) @ [NASA Data Portal](https://data.nas.nasa.gov/) <br>
+- Results of MITgcm on LLC (e.g. **LLC4320**, **LLC2160**) @ [NASA Data Portal](https://data.nas.nasa.gov/) <br>
 [Description](https://www.nature.com/articles/s41467-018-02983-w) | 
 [Download](https://data.nas.nasa.gov/ecco/data.php?dir=/eccodata/llc_4320) |
 [Citation](https://doi.org/10.1038/s41467-018-02983-w)
+
+- MODIS Aqua/Terra (L3/L4) @ [Ocean Color](https://oceancolor.gsfc.nasa.gov/) <br>
+[Description](https://modis.gsfc.nasa.gov/) | 
+[Download](https://oceandata.sci.gsfc.nasa.gov/l3/) |
+[How to cite](https://oceancolor.gsfc.nasa.gov/resources/how-to-cite/)
+
+
 
 Note
 ---
