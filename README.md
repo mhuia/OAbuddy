@@ -33,7 +33,7 @@ To be collected:
 ---
 
 <details>
-<summary>Remote sensing:</summary>
+<summary>Remote sensing</summary>
 
 - MODIS (Terra & Aqua)
 - AVHRR
