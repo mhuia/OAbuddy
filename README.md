@@ -1,5 +1,5 @@
 # OAbuddy
-The gathering of Ocean and Atmosphere Dataset.
+The gathering of Ocean and Atmosphere Datasets.
 
 ---
 
@@ -20,14 +20,29 @@ Here are some commonly used datasets:
 [Download](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html) |
 [Citation](https://doi.org/10.1175/JCLI-D-20-0166.1)
 
+- International Best Track Archive for Climate Stewardship (IBTrACS) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+[Description](https://www.ncei.noaa.gov/products/international-best-track-archive) | 
+[Download](https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/netcdf/) |
+[Citation](https://doi.org/10.25921/82ty-9e16)
 
+- Results of MITgcm on LLC (e.g. LLC4320, LLC2160) @ [NASA Data Portal](https://data.nas.nasa.gov/) <br>
+[Description](https://www.nature.com/articles/s41467-018-02983-w) | 
+[Download](https://data.nas.nasa.gov/ecco/data.php?dir=/eccodata/llc_4320) |
+[Citation](https://doi.org/10.1038/s41467-018-02983-w)
 
 Note
 ---
 
 The information of these dataset is collected and updated manually. 
 
-If a broken link is found or the dataset has been updated, welcome to raise an issue or contact the developer. 
+If the link is incorrect, please raise an issue or contact the developer to correct it.
+
+If the link is broken or the dataset has been updated, welcome to raise an issue or contact the developer. 
+
+> This repository is created and maintained by [mhuia](https://github.com/mhuia) and [Chen-Huizhong](https://github.com/Chen-Huizhong). We welcome contributions of publicly available datasets related to the ocean and atmosphere. <br>
+Let's make it easier to access the datasets.
+
+<br>
 
 To be collected:
 ---
