@@ -30,10 +30,31 @@ Here are some commonly used datasets:
 [Download](https://data.nas.nasa.gov/ecco/data.php?dir=/eccodata/llc_4320) |
 [Citation](https://doi.org/10.1038/s41467-018-02983-w)
 
-- MODIS Aqua/Terra (L3/L4) @ [Ocean Color](https://oceancolor.gsfc.nasa.gov/) <br>
+- **MODIS** Aqua/Terra (L3/L4) @ [Ocean Color](https://oceancolor.gsfc.nasa.gov/) <br>
 [Description](https://modis.gsfc.nasa.gov/) | 
 [Download](https://oceandata.sci.gsfc.nasa.gov/l3/) |
 [How to cite](https://oceancolor.gsfc.nasa.gov/resources/how-to-cite/)
+
+- **AVHRR** Pathfinder **SST** (1981-2023) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+[Description](https://www.ncei.noaa.gov/products/avhrr-pathfinder-sst) | 
+[Download](https://www.ncei.noaa.gov/data/oceans/pathfinder/Version5.3/L3C/) |
+[Citation](https://doi.org/10.7289/v52j68xx)
+
+- Global **Argo** Data Repository @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+[Description](https://www.ncei.noaa.gov/products/global-argo-data-repository) | 
+Download |
+[How to cite](https://argo.ucsd.edu/data/acknowledging-argo/)
+
+- [**Argo** data sources](https://argo.ucsd.edu/) <br>
+[Description](https://argo.ucsd.edu/) | 
+[Download](https://argo.ucsd.edu/data/) |
+[Cition](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2020.00700/full) | 
+[How to cite](https://argo.ucsd.edu/data/acknowledging-argo/)
+
+- Global Temperature and Salinity Profile Programme (**GTSPP**) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+[Description](https://www.ncei.noaa.gov/products/global-temperature-and-salinity-profile-programme) |
+[Download](https://www.ncei.noaa.gov/products/global-temperature-and-salinity-profile-programme)|
+[Citation](https://www.ncei.noaa.gov/products/global-temperature-and-salinity-profile-programme)
 
 
 
@@ -58,7 +79,6 @@ To be collected:
 <summary>Remote sensing</summary>
 
 - MODIS (Terra & Aqua)
-- AVHRR
 - GHRSST
 - TOPEX/Poseidon
 - CMEMS Altimetry Products
