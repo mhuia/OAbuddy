@@ -10,6 +10,11 @@ Here are some commonly used datasets:
 [Download](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download) | 
 [Citation](https://doi.org/10.24381/cds.adbb2d47)
 
+- **ERA-Interim** (from 1979-01 to 2019-09) [NSF NCAR](https://ncar.ucar.edu/) <br>
+[Description](https://climatedataguide.ucar.edu/climate-data/era-interim) | 
+[Download](https://climatedataguide.ucar.edu/climate-data/era-interim) | 
+[How to cite](https://climatedataguide.ucar.edu/climate-data/era-interim)
+
 - Global Ocean Physics Reanalysis (**GLORYS**12V1) @ [Copernicus Marine Data Store](https://data.marine.copernicus.eu/products) <br>
 [Description](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/description) | 
 [Download](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/services) |
@@ -45,7 +50,7 @@ Here are some commonly used datasets:
 Download |
 [How to cite](https://argo.ucsd.edu/data/acknowledging-argo/)
 
-- [**Argo** data sources](https://argo.ucsd.edu/) <br>
+- **Argo** data sources @ [Argo](https://argo.ucsd.edu/) <br>
 [Description](https://argo.ucsd.edu/) | 
 [Download](https://argo.ucsd.edu/data/) |
 [Cition](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2020.00700/full) | 
@@ -76,10 +81,15 @@ Download |
 [Download](https://www.psl.noaa.gov/data/gridded/data.godas.html) | 
 [How to cite](https://www.psl.noaa.gov/data/gridded/data.godas.html)
 
-- Estimated state of ocean for climate research Version:06a (**ESTOC**) @ [JAMSTEC](https://www.jamstec.go.jp/e/)
+- Estimated state of ocean for climate research Version:06a (**ESTOC**) @ [JAMSTEC](https://www.jamstec.go.jp/e/) <br>
 [Description](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html) | 
 [Download](https://www.godac.jamstec.go.jp/jagdas/catalog/estoc/catalog.html) | 
 [How to cite](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html)
+
+- **SODA**: Simple Ocean Data Assimilation @ [NSF NCAR](https://ncar.ucar.edu/) <br>
+[Description](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation) | 
+[Download](https://dsrs.atmos.umd.edu/DATA/) | 
+[How to cite](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation)
 
 
 
@@ -116,11 +126,9 @@ To be collected:
 <details>
 <summary>Reanalysis</summary>
 
-- ERA-Interim (if needed)
 - JRA-55
 - NCEP/NCAR Reanalysis
 - ORAS5
-- SODA
 - NCEP FNL (actually this is analysis data)
 - ...... 
 </details>
