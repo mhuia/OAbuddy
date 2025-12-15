@@ -18,7 +18,8 @@ Here are some commonly used datasets:
 - Global Ocean Physics Reanalysis (**GLORYS**12V1) @ [Copernicus Marine Data Store](https://data.marine.copernicus.eu/products) <br>
 [Description](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/description) | 
 [Download](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/services) |
-[Citation](https://doi.org/10.48670/moi-00021)
+[Citation](https://doi.org/10.48670/moi-00021) | 
+[How to cite](https://help.marine.copernicus.eu/en/articles/4444611-how-to-cite-copernicus-marine-products-and-services)
 
 - Optimum Interpolation Sea Surface Temperature (**OISST**) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
 [Description](https://www.ncei.noaa.gov/products/optimum-interpolation-sst) | 
@@ -90,6 +91,12 @@ Download |
 [Description](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation) | 
 [Download](https://dsrs.atmos.umd.edu/DATA/) | 
 [How to cite](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation)
+
+- Global Ocean Ensemble Physics Reanalysis (**GOEPR**) @ [Copernicus Marine Data Store](https://data.marine.copernicus.eu/products) <br>
+[Description](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/description) | 
+[Download](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/services) | 
+[Citation](https://doi.org/10.48670/moi-00024) | 
+[How to cite](https://help.marine.copernicus.eu/en/articles/4444611-how-to-cite-copernicus-marine-products-and-services)
 
 
 
