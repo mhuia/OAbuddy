@@ -100,6 +100,18 @@ Download |
 
 
 
+Other datasets:
+
+- The Global **Seamount** Database <br>
+[Description](https://www.soest.hawaii.edu/PT/SMTS/main.html) | 
+[Download](https://www.soest.hawaii.edu/PT/SMTS/main.html) | 
+[Citation](http://dx.doi.org/10.1111/j.1365-246X.2011.05076.x)
+
+- ETOPO Global Relief Model (**ETOPO 2022**) @ [NOAA NCEI](https://www.ncei.noaa.gov/) <br>
+[Description](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
+[Download](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/DEM//iso/xml/etopo_2022.xml&view=getDataView&header=none)
+[How to cite](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
+
 Note
 ---
 
