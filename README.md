@@ -26,10 +26,6 @@ Here are some commonly used datasets:
 [Download](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html) |
 [Citation](https://doi.org/10.1175/JCLI-D-20-0166.1)
 
-- International Best Track Archive for Climate Stewardship (**IBTrACS**) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
-[Description](https://www.ncei.noaa.gov/products/international-best-track-archive) | 
-[Download](https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/netcdf/) |
-[Citation](https://doi.org/10.25921/82ty-9e16)
 
 - Results of MITgcm on LLC (e.g. **LLC4320**, **LLC2160**) @ [NASA Data Portal](https://data.nas.nasa.gov/) <br>
 [Description](https://www.nature.com/articles/s41467-018-02983-w) | 
@@ -98,6 +94,10 @@ Download |
 [Citation](https://doi.org/10.48670/moi-00024) | 
 [How to cite](https://help.marine.copernicus.eu/en/articles/4444611-how-to-cite-copernicus-marine-products-and-services)
 
+- NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from July 1999 @ [NSF NCAR](https://ncar.ucar.edu/) <br>
+[Description](https://gdex.ucar.edu/datasets/d083002/) | 
+[Download](https://gdex.ucar.edu/datasets/d083002/dataaccess/#) | 
+[Citation](https://gdex.ucar.edu/datasets/d083002/citation/#) | 
 
 
 Other datasets:
@@ -111,6 +111,11 @@ Other datasets:
 [Description](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
 [Download](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/DEM//iso/xml/etopo_2022.xml&view=getDataView&header=none)
 [How to cite](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
+
+- International Best Track Archive for Climate Stewardship (**IBTrACS**) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+[Description](https://www.ncei.noaa.gov/products/international-best-track-archive) | 
+[Download](https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/netcdf/) |
+[Citation](https://doi.org/10.25921/82ty-9e16)
 
 Note
 ---
