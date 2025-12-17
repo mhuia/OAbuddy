@@ -97,7 +97,12 @@ Download |
 - NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from July 1999 @ [NSF NCAR](https://ncar.ucar.edu/) <br>
 [Description](https://gdex.ucar.edu/datasets/d083002/) | 
 [Download](https://gdex.ucar.edu/datasets/d083002/dataaccess/#) | 
-[Citation](https://gdex.ucar.edu/datasets/d083002/citation/#) | 
+[Citation](https://gdex.ucar.edu/datasets/d083002/citation/#)
+
+- **GHRSST** Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1) (GDS versions 1 and 2) (daily, from 2002-06-01 to 2023-03-15) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
+[Description](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB) | 
+[Download](https://www.ncei.noaa.gov/thredds-ocean/catalog/ghrsst/L4/GLOB/JPL/MUR/catalog.html) | 
+[How to cite](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB)
 
 
 Other datasets:
