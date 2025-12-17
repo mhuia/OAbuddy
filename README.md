@@ -104,6 +104,9 @@ Download |
 [Download](https://www.ncei.noaa.gov/thredds-ocean/catalog/ghrsst/L4/GLOB/JPL/MUR/catalog.html) | 
 [How to cite](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB)
 
+- Coupled Model Intercomparison Project (**CMIP**) <br>
+[Description](https://wcrp-cmip.org/)
+
 
 Other datasets:
 
