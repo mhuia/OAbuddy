@@ -104,6 +104,13 @@ Download |
 [Download](https://www.ncei.noaa.gov/thredds-ocean/catalog/ghrsst/L4/GLOB/JPL/MUR/catalog.html) | 
 [How to cite](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB)
 
+- Japanese Reanalysis (**JRA-25**, **DSJRA-55**, **JRA-55**, **JRA-3Q**) @ [気象庁](https://www.jma.go.jp/jma/kishou/info/coment.html) <br>
+[Project Access](https://www.data.jma.go.jp/jra/html/index.html) | 
+[JRA-25](https://www.data.jma.go.jp/jra/html/JRA-25/index_en.html) | 
+[DSJRA-55](https://www.data.jma.go.jp/jra/html/DSJRA-55/index_en.html) |
+[JRA-55](https://www.data.jma.go.jp/jra/html/JRA-55/index_en.html) |
+[JRA-3Q](https://www.data.jma.go.jp/jra/html/JRA-3Q/index_en.html)
+
 - Coupled Model Intercomparison Project (**CMIP**) <br>
 [Description](https://wcrp-cmip.org/)
 
@@ -161,7 +168,6 @@ To be collected:
 - JRA-55
 - NCEP/NCAR Reanalysis
 - ORAS5
-- NCEP FNL (actually this is analysis data)
 - ...... 
 </details>
 
@@ -172,7 +178,6 @@ To be collected:
 - HYCOM
 - CMEMS Global Ocean Forecast
 - WAVEWATCH III (wave forecast)
-- Coupled Model Intercomparison Project (CMIP, for climate research)
 - ...... 
 </details>
 
