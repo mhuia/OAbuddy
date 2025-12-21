@@ -137,6 +137,12 @@ Other datasets:
 [Download](https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/netcdf/) |
 [Citation](https://doi.org/10.25921/82ty-9e16)
 
+- TPXO Global Tidal Models @ OSU <br>
+[Description](https://www.tpxo.net/global) | 
+[TPXO Web Service](https://tpxows.azurewebsites.net/) |
+[Citation](https://journals.ametsoc.org/view/journals/atot/19/2/1520-0426_2002_019_0183_eimobo_2_0_co_2.xml)
+
+
 Note
 ---
 
