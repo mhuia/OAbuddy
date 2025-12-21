@@ -123,9 +123,14 @@ Other datasets:
 [Citation](http://dx.doi.org/10.1111/j.1365-246X.2011.05076.x)
 
 - ETOPO Global Relief Model (**ETOPO 2022**) @ [NOAA NCEI](https://www.ncei.noaa.gov/) <br>
-[Description](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
-[Download](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/DEM//iso/xml/etopo_2022.xml&view=getDataView&header=none)
+[Description](https://www.ncei.noaa.gov/products/etopo-global-relief-model) |
+[Download](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/DEM//iso/xml/etopo_2022.xml&view=getDataView&header=none) |
 [How to cite](https://www.ncei.noaa.gov/products/etopo-global-relief-model)
+
+- Gridded Bathymetry Data @ [GEBCO](https://www.gebco.net/) <br>
+[Description](https://www.gebco.net/data-products/gridded-bathymetry-data) |
+[Download](https://www.gebco.net/data-products/gridded-bathymetry-data) |
+[Terms of use](https://www.gebco.net/data-products/gridded-bathymetry/terms-of-use)
 
 - International Best Track Archive for Climate Stewardship (**IBTrACS**) @ [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/)<br>
 [Description](https://www.ncei.noaa.gov/products/international-best-track-archive) | 
@@ -153,7 +158,6 @@ To be collected:
 <summary>Remote sensing</summary>
 
 - MODIS (Terra & Aqua)
-- GHRSST
 - TOPEX/Poseidon
 - CMEMS Altimetry Products
 - QuikSCAT
@@ -165,7 +169,6 @@ To be collected:
 <details>
 <summary>Reanalysis</summary>
 
-- JRA-55
 - NCEP/NCAR Reanalysis
 - ORAS5
 - ...... 
