@@ -150,6 +150,11 @@ Other datasets:
 [TPXO Web Service](https://tpxows.azurewebsites.net/) |
 [Citation](https://journals.ametsoc.org/view/journals/atot/19/2/1520-0426_2002_019_0183_eimobo_2_0_co_2.xml)
 
+- **Tide Prediction Tools**
+    - **`pyTMD` (Python)** [Document](https://pytmd.readthedocs.io/en/latest/) | [GitHub](https://github.com/pyTMD/pyTMD) | [Citation](https://joss.theoj.org/papers/10.21105/joss.08566)
+    - **`TMD` (MATLAB)** [Web(v3.0)](https://ww2.mathworks.cn/matlabcentral/fileexchange/133417-tide-model-driver-tmd-version-3-0) | [GitHub(v3.0)](https://github.com/chadagreene/Tide-Model-Driver) | [Citation(v3.0)](https://joss.theoj.org/papers/10.21105/joss.06018)
+    - **`TMD` (MATLAB)** [Web(v2.5)](https://ww2.mathworks.cn/matlabcentral/fileexchange/75599-tide-model-driver-tmd-version-2-5-toolbox-for-matlab) | [GitHub(v2.5)](https://github.com/EarthAndSpaceResearch/TMD_Matlab_Toolbox_v2.5)
+    - **`OTPS` (FORTRAN)** [Web](https://www.tpxo.net/otps)
 
 Note
 ---
