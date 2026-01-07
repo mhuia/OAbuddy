@@ -3,7 +3,7 @@ The gathering of Ocean and Atmosphere Datasets.
 
 ---
 
-Here are some commonly used datasets:
+## Commonly used datasets:
 
 - **ERA5** hourly data on single levels from 1940 to present @ [Climate Data Store](https://cds.climate.copernicus.eu/) <br>
 [Description](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) | 
@@ -123,7 +123,7 @@ Download |
 [Description](https://wcrp-cmip.org/)
 
 
-Other datasets:
+## Other datasets:
 
 - The Global **Seamount** Database <br>
 [Description](https://www.soest.hawaii.edu/PT/SMTS/main.html) | 
@@ -150,14 +150,47 @@ Other datasets:
 [TPXO Web Service](https://tpxows.azurewebsites.net/) |
 [Citation](https://journals.ametsoc.org/view/journals/atot/19/2/1520-0426_2002_019_0183_eimobo_2_0_co_2.xml)
 
+
+## Some useful tools:
+
 - **Tide Prediction Tools**
     - **`pyTMD` (Python)** [Document](https://pytmd.readthedocs.io/en/latest/) | [GitHub](https://github.com/pyTMD/pyTMD) | [Citation](https://joss.theoj.org/papers/10.21105/joss.08566)
     - **`TMD` (MATLAB)** [Web(v3.0)](https://ww2.mathworks.cn/matlabcentral/fileexchange/133417-tide-model-driver-tmd-version-3-0) | [GitHub(v3.0)](https://github.com/chadagreene/Tide-Model-Driver) | [Citation(v3.0)](https://joss.theoj.org/papers/10.21105/joss.06018)
     - **`TMD` (MATLAB)** [Web(v2.5)](https://ww2.mathworks.cn/matlabcentral/fileexchange/75599-tide-model-driver-tmd-version-2-5-toolbox-for-matlab) | [GitHub(v2.5)](https://github.com/EarthAndSpaceResearch/TMD_Matlab_Toolbox_v2.5)
     - **`OTPS` (FORTRAN)** [Web](https://www.tpxo.net/otps)
 
-Note
----
+
+## Some Large Models (related to Ocean and Meteorology):
+
+| Large model name | Institute | first released on | Information |
+| ---------------- | --------- | ----------------- | ----------- |
+| “盘古”大模型 Pangu | [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/) | July 05, 2023 | [Web](https://www.huaweicloud.com/product/pangu.html) &#124; [Nature](https://www.nature.com/articles/s41586-023-06185-3) &#124; [Report](https://www.huaweicloud.com/news/2023/20230706011424580.html) |
+| “琅琊”海洋大模型 | [IOCAS](https://qdio.cas.cn/) | Dec 28, 2024 | [Report](https://www.cas.cn/cm/202501/t20250102_5044003.shtml) &#124; [Award](https://qdio.cas.cn/2019Ver/News/zhdt/202601/t20260106_8096231.html) |
+| “羲和”海洋环境预报大模型 (XiHe) | [NUDT](https://www.nudt.edu.cn/) | Oct 22, 2024 | [GitHub](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting) &#124; [Arxiv](https://arxiv.org/abs/2402.02995) |
+| “问海”海洋环境预报大模型 | [LSNL](https://www.lsnl.cn/) | May 27, 2024 | [Report](https://web.archive.org/web/20240605200610/https://news.ustc.edu.cn/info/1055/87684.htm) |
+| 璞云 (Puyun) | [metac-inc](https://www.metac-inc.com/) | Sep 1, 2024 | [Web](https://puyun.metac-inc.com/) &#124; [Arxiv](https://arxiv.org/abs/2409.02123) &#124; [GitHub](https://github.com/Yu-Kai-dev/ai-models-puyun) |
+| “瀚海星云”科学人工智能基础大模型 | [LSNL](https://www.lsnl.cn/) | May 27, 2024 | [Report](https://web.archive.org/web/20240605200610/https://news.ustc.edu.cn/info/1055/87684.htm) | 
+| “瀚海智语（OceanDS）”海洋大语言模型 | [NMEFC](https://www.nmefc.cn/) | Mar 31, 2025 | [Report](https://web.archive.org/web/20250401011835/https://paper.people.com.cn/rmrb/pc/content/202503/27/content_30064473.html) |
+| “沧渊” OceanGPT | [ZJU](https://www.zju.edu.cn/) [HIC](https://hic.zju.edu.cn/2024/0705/c85847a3039718/page.htm) | Oct 4, 2023 | [Web](https://zjunlp.github.io/project/OceanGPT/) &#124; [GitHub](https://github.com/OceanGPT/OceanGPT) &#124; [Arxiv](https://arxiv.org/abs/2310.02031) &#124; [Report](https://ecas.cas.cn/xxkw/kbcd/201115_147969/ml/xxhcxyyyal/202507/t20250718_5076758.html) | 
+| “瞰海”全链路海洋AI大模型 | [SAI.SYSU](https://sai.sysu.edu.cn/) and [NSOAS](http://www.nsoas.org.cn/index.html) | Nov 24, 2025 | [Report](https://www.ncsti.gov.cn/kjdt/kjrd/202511/t20251126_230096.html) &#124; [Progress](https://sai.sysu.edu.cn/article/623) | 
+| 深海生境智能认知与探索多模态大模型(DePTH-GPT) | [SIO](https://www.sio.org.cn/) and [Zhejiang Lab](https://www.zhejianglab.org/lab/home) et al. | Nov 6, 2025 | [Report](https://www.sio.org.cn/a/snyw/22983.html) |
+| 海境·涡流大模型1.0 iEddy | [SCSIO](http://sklto.scsio.ac.cn/zhxw/202509/t20250928_779768.html) | Sep 21, 2025 | [Report](http://sklto.scsio.ac.cn/zhxw/202509/t20250928_779768.html) |
+| 书生·风乌 气象海洋预报大模型体系 | [ShLab](https://www.shlab.org.cn/) | Apr 7, 2023 | [Web](https://fengwu.intern-ai.org.cn/) &#124; [Arxiv](https://arxiv.org/abs/2304.02948) | 
+| “伏羲”大模型 FUXI | [FDU](https://www.fudan.edu.cn/main.htm) | Jun 22, 2023 | [Web](https://fuxi-ai.cn/) &#124; [Nature](https://www.nature.com/articles/s41612-023-00512-1) &#124; [Arxiv](https://arxiv.org/abs/2306.12873) &#124; [GitHub](https://github.com/tpys/FuXi) |
+| AI-GOMS 全球海洋建模系统 | [THU](https://www.dess.tsinghua.edu.cn/index.htm) | Aug 6, 2023 | [Arxiv](https://arxiv.org/abs/2308.03152) |
+| OceanCastNet 海洋波浪预报模型 | [OUC](https://www.ouc.edu.cn/main.htm) and [Sugon](https://www.sugon.com/) | Jun 6, 2024 | [Arxiv](https://arxiv.org/abs/2406.03848) &#124; [JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005285?af=R) &#124; [Report](https://www.sugon.com/product/storage/news_detail/2725?cate_p_id=) |
+| “深蓝生命”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) | 
+| “海冰”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) |
+| “波塞冬”海洋生态环境预报大模型 | [GS.ZJU](http://gs.zju.edu.cn/main.htm) | Nov, 2024 | [Report](http://gs.zju.edu.cn/2024/1128/c34773a2997394/page.htm) |
+| “瑶华”珊瑚礁多模态大模型 | [SCSIO](https://scsio.cas.cn/) | Mar, 2025 | [Report](https://web.archive.org/web/20250402154635/https://scsio.cas.cn/news/kydt/202503/t20250321_7563212.html) |
+| NAUTILUS 水下多模态大模型 | [HUST](https://www.hust.edu.cn/) | Oct 31, 2025 | [Web](https://h-embodvis.github.io/NAUTILUS/) &#124; [Arxiv](https://arxiv.org/abs/2510.27481) &#124; [GitHub](https://github.com/H-EmbodVis/NAUTILUS) |
+
+
+> These Large Models, they are amazing, right?
+
+<br>
+
+# Note
 
 The information of these dataset is collected and updated manually. 
 
@@ -165,13 +198,12 @@ If the link is incorrect, please raise an issue or contact the developer to corr
 
 If the link is broken or the dataset has been updated, welcome to raise an issue or contact the developer. 
 
-> This repository is created and maintained by [mhuia](https://github.com/mhuia) and [Chen-Huizhong](https://github.com/Chen-Huizhong). We welcome accesses to publicly available datasets related to the ocean and atmosphere. <br>
+> This repository is created and maintained by [mhuia](https://github.com/mhuia) and [Chen-Huizhong](https://github.com/Chen-Huizhong). We welcome the access ways to publicly available datasets related to the ocean and atmosphere. <br>
 Let's make it easier to access the datasets.
 
 <br>
 
-To be collected:
----
+## To be collected:
 
 <details>
 <summary>Remote sensing</summary>
