@@ -1,7 +1,10 @@
-<h1 align="center" style="color:#2F4F6F;">
-  OAbuddy<br/>
-  <sub><em>Gathering of Ocean and Atmosphere Datasets</em></sub>
-</h1>
+<h1 align="center">OAbuddy</h1>
+
+<p align="center"><em>
+A curated collection of publicly available oceanic and atmospheric datasets
+</em></p>
+
+<br>
 
 ## Commonly used datasets:
 
@@ -89,7 +92,7 @@ The information of these dataset is collected and updated manually.
 If the link is incorrect, broken or the dataset has been updated, welcome to raise an issue and pull requests or just contact the developer(s).
 
 > This repository is created and maintained by [mhuia](https://github.com/mhuia), [Chen-Huizhong](https://github.com/Chen-Huizhong), and [Qin Duan](https://github.com/QinDuan12138). Your contribution is welcome, too. <br>
-Let's make it easier to access the datasets and to decode ocean & atmosphere.
+Let's make it easier to access the datasets and to decode ocean & atmosphere!
 
 <br>
 
