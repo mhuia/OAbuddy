@@ -48,31 +48,48 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | ----- | ----------- |
 | **Tide Prediction Tools** | **`pyTMD` (Python)** [Document](https://pytmd.readthedocs.io/en/latest/) &#124; [GitHub](https://github.com/pyTMD/pyTMD) &#124; [Citation](https://joss.theoj.org/papers/10.21105/joss.08566) &#124; <br> **`TMD` (MATLAB)** [Web(v3.0)](https://ww2.mathworks.cn/matlabcentral/fileexchange/133417-tide-model-driver-tmd-version-3-0) &#124; [GitHub(v3.0)](https://github.com/chadagreene/Tide-Model-Driver) &#124; [Citation(v3.0)](https://joss.theoj.org/papers/10.21105/joss.06018) <br> **`TMD` (MATLAB)** [Web(v2.5)](https://ww2.mathworks.cn/matlabcentral/fileexchange/75599-tide-model-driver-tmd-version-2-5-toolbox-for-matlab) &#124; [GitHub(v2.5)](https://github.com/EarthAndSpaceResearch/TMD_Matlab_Toolbox_v2.5) <br> **`OTPS` (FORTRAN)** [Web](https://www.tpxo.net/otps)
 
+---
 
-## Some Large Models (related to Ocean and Meteorology):
+## Some Large Models (related to Ocean and Meteorology)
 
-| Large model name | Institute | first released on | Information |
+### 🌊 Ocean-related Large Models (sorted by release time)
+
+| Large model name | Institute | First released on | Information |
 | ---------------- | --------- | ----------------- | ----------- |
-| “盘古”大模型 Pangu | [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/) | July 05, 2023 | [Web](https://www.huaweicloud.com/product/pangu.html) <br> [Nature](https://www.nature.com/articles/s41586-023-06185-3) <br> [Report](https://www.huaweicloud.com/news/2023/20230706011424580.html) |
-| “琅琊”海洋大模型 | [IOCAS](https://qdio.cas.cn/) | Dec 28, 2024 | [Report](https://www.cas.cn/cm/202501/t20250102_5044003.shtml) <br> [Award](https://qdio.cas.cn/2019Ver/News/zhdt/202601/t20260106_8096231.html) |
-| “羲和”海洋环境预报大模型 (XiHe) | [NUDT](https://www.nudt.edu.cn/) | Oct 22, 2024 | [GitHub](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting) <br> [Arxiv](https://arxiv.org/abs/2402.02995) |
-| “问海”海洋环境预报大模型 | [LSNL](https://www.lsnl.cn/) | May 27, 2024 | [Report](https://web.archive.org/web/20240605200610/https://news.ustc.edu.cn/info/1055/87684.htm) |
-| 璞云 (Puyun) | [metac-inc](https://www.metac-inc.com/) | Sep 1, 2024 | [Web](https://puyun.metac-inc.com/) <br> [Arxiv](https://arxiv.org/abs/2409.02123) <br> [GitHub](https://github.com/Yu-Kai-dev/ai-models-puyun) |
-| “瀚海星云”科学人工智能基础大模型 | [LSNL](https://www.lsnl.cn/) | May 27, 2024 | [Report](https://web.archive.org/web/20240605200610/https://news.ustc.edu.cn/info/1055/87684.htm) | 
-| “瀚海智语（OceanDS）”海洋大语言模型 | [NMEFC](https://www.nmefc.cn/) | Mar 31, 2025 | [Report](https://web.archive.org/web/20250401011835/https://paper.people.com.cn/rmrb/pc/content/202503/27/content_30064473.html) |
-| “沧渊” OceanGPT | [ZJU](https://www.zju.edu.cn/) [HIC](https://hic.zju.edu.cn/2024/0705/c85847a3039718/page.htm) | Oct 4, 2023 | [Web](https://zjunlp.github.io/project/OceanGPT/) <br> [GitHub](https://github.com/OceanGPT/OceanGPT) <br> [Arxiv](https://arxiv.org/abs/2310.02031) <br> [Report](https://ecas.cas.cn/xxkw/kbcd/201115_147969/ml/xxhcxyyyal/202507/t20250718_5076758.html) | 
-| “瞰海”全链路海洋AI大模型 | [SAI.SYSU](https://sai.sysu.edu.cn/) and [NSOAS](http://www.nsoas.org.cn/index.html) | Nov 24, 2025 | [Report](https://www.ncsti.gov.cn/kjdt/kjrd/202511/t20251126_230096.html) <br> [Progress](https://sai.sysu.edu.cn/article/623) | 
-| 深海生境智能认知与探索多模态大模型(DePTH-GPT) | [SIO](https://www.sio.org.cn/) and [Zhejiang Lab](https://www.zhejianglab.org/lab/home) et al. | Nov 6, 2025 | [Report](https://www.sio.org.cn/a/snyw/22983.html) |
-| 海境·涡流大模型1.0 iEddy | [SCSIO](http://sklto.scsio.ac.cn/zhxw/202509/t20250928_779768.html) | Sep 21, 2025 | [Report](http://sklto.scsio.ac.cn/zhxw/202509/t20250928_779768.html) |
-| 书生·风乌 气象海洋预报大模型体系 | [ShLab](https://www.shlab.org.cn/) | Apr 7, 2023 | [Web](https://fengwu.intern-ai.org.cn/) <br> [Arxiv](https://arxiv.org/abs/2304.02948) | 
-| “伏羲”大模型 FUXI | [FDU](https://www.fudan.edu.cn/main.htm) | Jun 22, 2023 | [Web](https://fuxi-ai.cn/) <br> [Nature](https://www.nature.com/articles/s41612-023-00512-1) <br> [Arxiv](https://arxiv.org/abs/2306.12873) <br> [GitHub](https://github.com/tpys/FuXi) |
 | AI-GOMS 全球海洋建模系统 | [THU](https://www.dess.tsinghua.edu.cn/index.htm) | Aug 6, 2023 | [Arxiv](https://arxiv.org/abs/2308.03152) |
-| OceanCastNet 海洋波浪预报模型 | [OUC](https://www.ouc.edu.cn/main.htm) and [Sugon](https://www.sugon.com/) | Jun 6, 2024 | [Arxiv](https://arxiv.org/abs/2406.03848) <br> [JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005285?af=R) <br> [Report](https://www.sugon.com/product/storage/news_detail/2725?cate_p_id=) |
-| “深蓝生命”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) | 
-| “海冰”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) |
+| “沧渊” OceanGPT | [ZJU](https://www.zju.edu.cn/) / [HIC](https://hic.zju.edu.cn/2024/0705/c85847a3039718/page.htm) | Oct 4, 2023 | [Web](https://zjunlp.github.io/project/OceanGPT/) <br> [Arxiv](https://arxiv.org/abs/2310.02031) <br> [GitHub](https://github.com/OceanGPT/OceanGPT) |
+| “问海”海洋环境预报大模型 | [LSNL](https://www.lsnl.cn/) | May 27, 2024 | [Report](https://web.archive.org/web/20240605200610/https://news.ustc.edu.cn/info/1055/87684.htm) <br> [Nature Communications](https://doi.org/10.1038/s41467-025-57389-2) <br> [GitHub](https://github.com/Cuiyingzhe/WenHai) |
+| “瀚海星云”科学人工智能基础大模型 | [LSNL](https://www.lsnl.cn/) | May 27, 2024 | [Report](https://web.archive.org/web/20240605200610/https://news.ustc.edu.cn/info/1055/87684.htm) |
+| 璞云 (Puyun) | [metac-inc](https://www.metac-inc.com/) | Sep 1, 2024 | [Web](https://puyun.metac-inc.com/) <br> [Arxiv](https://arxiv.org/abs/2409.02123) <br> [GitHub](https://github.com/Yu-Kai-dev/ai-models-puyun) |
+| “羲和”海洋环境预报大模型 (XiHe) | [NUDT](https://www.nudt.edu.cn/) | Oct 22, 2024 | [Arxiv](https://arxiv.org/abs/2402.02995) <br> [GitHub](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting) |
 | “波塞冬”海洋生态环境预报大模型 | [GS.ZJU](http://gs.zju.edu.cn/main.htm) | Nov, 2024 | [Report](http://gs.zju.edu.cn/2024/1128/c34773a2997394/page.htm) |
+| “琅琊”海洋大模型 | [IOCAS](https://qdio.cas.cn/) | Dec 28, 2024 | [Report](https://www.cas.cn/cm/202501/t20250102_5044003.shtml) <br>  [Arxiv](https://doi.org/10.48550/arXiv.2412.18097)  <br> [GitHub](https://github.com/iocaswolfteam/LangYa_v1_0) |
 | “瑶华”珊瑚礁多模态大模型 | [SCSIO](https://scsio.cas.cn/) | Mar, 2025 | [Report](https://web.archive.org/web/20250402154635/https://scsio.cas.cn/news/kydt/202503/t20250321_7563212.html) |
+| “瀚海智语（OceanDS）”海洋大语言模型 | [NMEFC](https://www.nmefc.cn/) | Mar 31, 2025 | [Report](https://web.archive.org/web/20250401011835/https://paper.people.com.cn/rmrb/pc/content/202503/27/content_30064473.html) |
+| 海境·涡流大模型1.0 iEddy | [SCSIO](http://sklto.scsio.ac.cn/) | Sep 21, 2025 | [Report](http://sklto.scsio.ac.cn/zhxw/202509/t20250928_779768.html) |
+| “深蓝生命”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) |
+| “海冰”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) |
+| 深海生境智能认知与探索多模态大模型(DePTH-GPT) | [SIO](https://www.sio.org.cn/) / [Zhejiang Lab](https://www.zhejianglab.org/lab/home) | Nov 6, 2025 | [Report](https://www.sio.org.cn/a/snyw/22983.html) |
 | NAUTILUS 水下多模态大模型 | [HUST](https://www.hust.edu.cn/) | Oct 31, 2025 | [Web](https://h-embodvis.github.io/NAUTILUS/) <br> [Arxiv](https://arxiv.org/abs/2510.27481) <br> [GitHub](https://github.com/H-EmbodVis/NAUTILUS) |
+| 黑潮智能预报系统KIPS | [HHU](https://www.hhu.edu.cn/) | Mar 11, 2025 | [Report](https://kuroshio-prediction.net/article.html?id=9) <br> [Web](https://kuroshio-prediction.net/) |
+| TritonCast |  [THU](https://www.dess.tsinghua.edu.cn/index.htm) | May 26, 2025 | [Arxiv](https://www.dess.tsinghua.edu.cn/index.htm)  | 
+| “瞰海”全链路海洋AI大模型 | [SAI.SYSU](https://sai.sysu.edu.cn/) / [NSOAS](http://www.nsoas.org.cn/index.html) | Nov 24, 2025 | [Report](https://www.ncsti.gov.cn/kjdt/kjrd/202511/t20251126_230096.html) <br> [GitHub](https://github.com/skyocean-kanhai/KanHai) |
+
+
+### 🌦️ Meteorology-related Large Models (sorted by release time)
+
+| Large model name | Institute | First released on | Information |
+| ---------------- | --------- | ----------------- | ----------- |
+| MetNet | [Google Research](https://research.google/) | Mar 24, 2020 | [Web](https://research.google/blog/metnet-3-a-state-of-the-art-neural-weather-model-available-in-google-products/) <br> [Arxiv](https://doi.org/10.48550/arXiv.2003.12140) <br> [GitHub](https://github.com/lucidrains/metnet3-pytorch) |
+| FourCastNet | [NVIDIA](https://www.nvidia.com/en-sg/) | Feb 22, 2022 | [Arxiv](https://arxiv.org/abs/2202.11214) <br> [GitHub](https://github.com/NVlabs/FourCastNet) |
+| 书生·风乌 气象海洋预报大模型体系 | [ShLab](https://www.shlab.org.cn/) | Apr 7, 2023 | [Web](https://fengwu.intern-ai.org.cn/) <br> [Arxiv](https://arxiv.org/abs/2304.02948) |
+| “伏羲”大模型 FUXI | [FDU](https://www.fudan.edu.cn/main.htm) | Jun 22, 2023 | [Web](https://fuxi-ai.cn/) <br> [Nature](https://www.nature.com/articles/s41612-023-00512-1) <br> [Arxiv](https://arxiv.org/abs/2306.12873) <br> [GitHub](https://github.com/tpys/FuXi) |
+| “盘古”大模型 Pangu | [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/) | Jul 5, 2023 | [Web](https://www.huaweicloud.com/product/pangu.html) <br> [Nature](https://www.nature.com/articles/s41586-023-06185-3) |
+| GraphCast | [Google DeepMind](https://deepmind.google/) | Nov 14, 2023 | [Science](https://www.science.org/doi/10.1126/science.adi2336) <br> [GitHub](https://github.com/google-deepmind/graphcast) |
+| “风清”“风雷”“风顺” | [CMA](https://www.cma.gov.cn/) / [THU](https://www.tsinghua.edu.cn/) | Jun 18, 2024 | [Report](https://www.tsinghua.edu.cn/info/1182/112354.htm) |
+| NeuralGCM | [Google Research](https://research.google/) | Jul 22, 2024 | [Science](https://www.science.org/doi/10.1126/science.adi2336) <br> [GitHub](https://github.com/neuralgcm/neuralgcm) |
+| Aardvark Weather | [Cantab](https://www.cst.cam.ac.uk/) | Mar 20, 2025 | [Nature](https://doi.org/10.1038/s41586-025-08897-0) <br> [GitHub](https://github.com/anna-allen/aardvark-weather-public) |
+
 
 
 > These Large Models, they are amazing, right?
