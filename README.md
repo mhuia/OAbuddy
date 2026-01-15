@@ -4,9 +4,24 @@
 A curated collection of publicly available oceanic and atmospheric datasets
 </em></p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/mhuia/OAbuddy" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues/mhuia/OAbuddy" alt="Open Issues">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions Welcome">
+</p>
+
+
+## 📋 Table of contents
+- [📊 Commonly used datasets](#-commonly-used-datasets)
+- [🗃️ Other datasets](#️-other-datasets)
+- [🔧 Useful tools](#-useful-tools)
+- [🤖 Large models](#-large-models-related-to-ocean-and-meteorology)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
 <br>
 
-## Commonly used datasets:
+## 📊 Commonly used datasets:
 
 | Dataset | Institute | Information |
 | ------- | --------- | ----------- |
@@ -29,11 +44,11 @@ Global Ocean Ensemble Physics Reanalysis (**GOEPR**) | [Copernicus Marine Data S
 NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from July 1999 | [NSF NCAR](https://ncar.ucar.edu/) | [Description](https://gdex.ucar.edu/datasets/d083002/) <br> [Download](https://gdex.ucar.edu/datasets/d083002/dataaccess/#) <br> [Citation](https://gdex.ucar.edu/datasets/d083002/citation/#) |
 | **GHRSST** Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1) (GDS versions 1 and 2) (daily, from 2002-06-01 to 2023-03-15) | [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/) | [Description](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB) <br> [Download](https://www.ncei.noaa.gov/thredds-ocean/catalog/ghrsst/L4/GLOB/JPL/MUR/catalog.html) <br> [How to cite](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB) |
 | WAVEWATCH III | [NOAA/NCEP](https://www.weather.gov/ncep/) | [Home](https://polar.ncep.noaa.gov/waves/index.php?) <br> [GitHub Repo](https://github.com/NOAA-EMC/WW3) <br> [Description](https://polar.ncep.noaa.gov/waves/wavewatch/) | [Data Access](https://polar.ncep.noaa.gov/waves/download2.shtml?) <br> [How to cite](https://github.com/NOAA-EMC/WW3/wiki/FAQs-page#how-to-cite-wavewatch-iii) |
-| Japanese Reanalysis (**JRA-25**, **DSJRA-55**, **JRA-55**, **JRA-3Q**) | [気象庁](https://www.jma.go.jp/jma/kishou/info/coment.html) | [Project Access](https://www.data.jma.go.jp/jra/html/index.html) <br> [JRA-25](https://www.data.jma.go.jp/jra/html/JRA-25/index_en.html) <br> [DSJRA-55](https://www.data.jma.go.jp/jra/html/DSJRA-55/index_en.html) | [JRA-55](https://www.data.jma.go.jp/jra/html/JRA-55/index_en.html) | [JRA-3Q](https://www.data.jma.go.jp/jra/html/JRA-3Q/index_en.html)
+| Japanese Reanalysis (**JRA-25**, **DSJRA-55**, **JRA-55**, **JRA-3Q**) | [気象庁](https://www.jma.go.jp/jma/index.html) | [Project Page](https://www.data.jma.go.jp/jra/html/index.html) <br> • [JRA-25](https://www.data.jma.go.jp/jra/html/JRA-25/index_en.html) <br> • [DSJRA-55](https://www.data.jma.go.jp/jra/html/DSJRA-55/index_en.html) <br> • [JRA-55](https://www.data.jma.go.jp/jra/html/JRA-55/index_en.html) <br> • [JRA-3Q](https://www.data.jma.go.jp/jra/html/JRA-3Q/index_en.html) |
 | Coupled Model Intercomparison Project (**CMIP**) | - | [Description](https://wcrp-cmip.org/) |
 
 
-## Other datasets:
+## 🗃️ Other datasets:
 
 | Dataset | Institute | Information |
 | ------- | --------- | ----------- |
@@ -44,8 +59,9 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | TPXO Global Tidal Models | OSU | [Description](https://www.tpxo.net/global) <br> [TPXO Web Service](https://tpxows.azurewebsites.net/) | [Citation](https://journals.ametsoc.org/view/journals/atot/19/2/1520-0426_2002_019_0183_eimobo_2_0_co_2.xml) |
 | [国家地球系统科学数据中心](https://www.geodata.cn/main/) ([English version](http://wdcrre.data.ac.cn/)) | - | - |
 
+<br>
 
-## Some useful tools:
+## 🔧 Useful tools:
 
 | Tools | Information |
 | ----- | ----------- |
@@ -53,9 +69,9 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | Monthly Climate/Ocean Indices (Time-Series) at [NOAA/PSL](https://psl.noaa.gov/) | [Website](https://psl.noaa.gov/data/timeseries/month/) <br> Including **`ENSO Indices`**, **`Non-ENSO`**, **`Atmosphere Teleconnections`** and so on |
 | Visualize the motion of ocean and atmosphere: [earth.nullschool.net](https://earth.nullschool.net/) | [Author: Cameron Beccario](https://github.com/cambecc) <br> [Website](https://earth.nullschool.net/) <br> [Nullschool Technologies Inc.](https://nullschool.net/)
 
+<br>
 
-
-## Some Large Models (related to Ocean and Meteorology):
+## 🤖 Large models (related to Ocean and Meteorology):
 
 | Large model name | Institute | first released on | Information |
 | ---------------- | --------- | ----------------- | ----------- |
@@ -85,18 +101,20 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 
 <br>
 
-# Note
+## 🤝 Contributing
+We welcome contributions to keep this list accurate and growing!
 
-The information of these dataset is collected and updated manually. 
-
-If the link is incorrect, broken or the dataset has been updated, welcome to raise an issue and pull requests or just contact the developer(s).
-
-> This repository is created and maintained by [mhuia](https://github.com/mhuia), [Chen-Huizhong](https://github.com/Chen-Huizhong), and [Qin Duan](https://github.com/QinDuan12138). Your contribution is welcome, too. <br>
-Let's make it easier to access the datasets and to decode ocean & atmosphere!
+- You can directly open a pull request to add new datasets or update existing ones.
+- Alternatively, you can raise an issue if you find any broken links, outdated information, or have suggestions for new datasets to include.
 
 <br>
 
-## To be collected:
+## 📜 License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+<br>
+
+## 📥 To be collected:
 
 <details>
 <summary>Remote sensing</summary>
