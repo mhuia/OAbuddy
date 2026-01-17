@@ -15,6 +15,7 @@ A curated collection of publicly available oceanic and atmospheric datasets
 - [📊 Commonly used datasets](#-commonly-used-datasets)
 - [🗃️ Other datasets](#️-other-datasets)
 - [🔧 Useful tools](#-useful-tools)
+- [🌐 Numerical models](#-numerical-models)
 - [🤖 Large models](#-large-models-related-to-ocean-and-meteorology)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
@@ -47,6 +48,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | Japanese Reanalysis (**JRA-25**, **DSJRA-55**, **JRA-55**, **JRA-3Q**) | [気象庁](https://www.jma.go.jp/jma/index.html) | [Project Page](https://www.data.jma.go.jp/jra/html/index.html) <br> • [JRA-25](https://www.data.jma.go.jp/jra/html/JRA-25/index_en.html) <br> • [DSJRA-55](https://www.data.jma.go.jp/jra/html/DSJRA-55/index_en.html) <br> • [JRA-55](https://www.data.jma.go.jp/jra/html/JRA-55/index_en.html) <br> • [JRA-3Q](https://www.data.jma.go.jp/jra/html/JRA-3Q/index_en.html) |
 | Coupled Model Intercomparison Project (**CMIP**) | - | [Description](https://wcrp-cmip.org/) |
 
+<br>
 
 ## 🗃️ Other datasets:
 
@@ -71,6 +73,27 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | [earth.nullschool.net](https://earth.nullschool.net/) <br> An interactive website to visualize the motion of ocean and atmosphere | [Website](https://earth.nullschool.net/) <br> [Author: Cameron Beccario](https://github.com/cambecc) <br> [Nullschool Technologies Inc.](https://nullschool.net/)
 | [**netCDF Operators (NCO)**](https://nco.sourceforge.net/) <br> A set of powerful netCDF-processing command-line programs | [WebSite](https://nco.sourceforge.net/) <br> [User Guide](https://nco.sourceforge.net/nco.html#NCO-User-Guide) <br> [GitHub](https://github.com/nco/nco) |
 | [Thermodynamic Equation Of Seawater - 2010 (**TEOS-10**)](https://www.teos-10.org/) <br> A toolbox for calculating the thermodynamic properties of seawater | [WebSite](https://www.teos-10.org/) <br> [Software (GSW & SIA)](https://www.teos-10.org/software.htm) (supporting `MATLAB`, `Python`, `FORTRAN`...) <br> [Contents](https://www.teos-10.org/pubs/gsw/html/gsw_contents.html) | 
+
+<br>
+
+## 🌐 Numerical Models
+
+| Model name | Institutde | Information |
+| ---------- | ---------- | ----------- |
+| Regional Ocean Modeling System (**ROMS**) | The ROMS Group | [WebSite](https://www.myroms.org) <br> [GitHub](https://github.com/myroms/roms)
+| Weather Research & Forecasting Model (**WRF**) | [NCAR](https://ncar.ucar.edu/) <br> [NOAA](https://www.noaa.gov/) <br> [U.S. Air Force](https://www.af.mil/) <br> [NRL](https://www.nrl.navy.mil/) <br> [OU](https://www.ou.edu/) <br> [FAA](https://www.faa.gov/) | [WebSite](https://www.mmm.ucar.edu/models/wrf) <br> [GitHub](https://github.com/wrf-model/WRF) <br> [Online Tutorial](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/) |
+| Princeton Ocean Model (**POM**) | [Princeton University](https://www.princeton.edu/) | [WebSite](https://www.pomusers.org) <br> [Wiki](https://en.wikipedia.org/wiki/Princeton_Ocean_Model) |
+| Finite Volume Community Ocean Model (**FVCOM**) | [UMASS-D](https://www.umassd.edu/) <br> [WHOI](https://www.whoi.edu/) | [WebSite](https://www.fvcom.org/?p=5) <br> [GitHub](https://github.com/FVCOM-GitHub/FVCOM) |
+| Modular Ocean Model (**MOM**) | [NOAA/GFDL](https://www.gfdl.noaa.gov/) | [WebSite](https://www.gfdl.noaa.gov/mom-ocean-model/) <br> [GitHub](https://github.com/NOAA-GFDL/MOM6-examples) |
+| Nucleus for European Modelling of the Ocean (**NEMO**) | [NEMO Consortium](https://www.nemo-ocean.eu/consortium/history/) | [WebSite](http://www.nemo-ocean.eu/) <br> [Release](https://forge.nemo-ocean.eu/nemo/nemo/-/releases) |
+| MIT General Circulation Model (**MITgcm**) | [MIT](https://web.mit.edu/) | [WebSite](http://mitgcm.org/) <br> [GitHub](https://github.com/MITgcm/MITgcm) <br> [Doc](https://mitgcm.readthedocs.io/en/latest/) |
+| Parallel Ocean Program (**POP**) <br> (part of `CESM`) | [LANL](https://www.lanl.gov/) <br> [NCAR](https://ncar.ucar.edu/)| [WebSite](https://www.cesm.ucar.edu/models/pop)|
+| Hybrid Coordinate Ocean Model (**HYCOM**) | [HYCOM Consortium](https://www.hycom.org/) | [WebSite](https://www.hycom.org/) <br> [GitHub](https://github.com/HYCOM) |
+| Simulating WAves Nearshore (**SWAN**) | [TUDelft](https://www.tudelft.nl/en/) | [WebSite](https://swanmodel.sourceforge.io/) <br> [Reslease](https://swanmodel.sourceforge.io/download/download.htm) <br> [GitLab](https://gitlab.tudelft.nl/citg/wavemodels/swan) |
+| **WAVEWATCH III** (WW3) | [NCEP](https://www.weather.gov/ncep/) | [GitHub](https://github.com/NOAA-EMC/WW3) |
+| PALM | [PALM Group](https://www.meteo.uni-hannover.de/en/research/boundary-layer-meteorology) | [WebSite](https://palm.muk.uni-hannover.de/trac) <br> [Doc](https://docs.palm-model.com/) |
+| Coupled Ocean–Atmosphere–Wave–Sediment Transport Modeling System (**COAWST**) <br> (include `ROMS`, `WRF`, `WRF_Hydro`, `SWAN`, `WAVEWATCHIII`, `InWave`, `sediment component`, and `sea ice model`) | [USGS](https://www.usgs.gov/) | [WebSite](https://www.usgs.gov/centers/whcmsc/science/coawst-a-coupled-ocean-atmosphere-wave-sediment-transport-modeling-system) <br> [GitHub](https://github.com/DOI-USGS/COAWST) |
+| Community Earth System Model (**CESM**) <br> (include `CAM`, `CLM`, `CISM`) | [CGD](https://www.cgd.ucar.edu/) <br> [NCAR](https://ncar.ucar.edu/) | [WebSite](https://www.cesm.ucar.edu/) <br> [Release](https://www.cesm.ucar.edu/models) <br> [GitHub](https://github.com/ESCOMP/CESM) |
 
 <br>
 
