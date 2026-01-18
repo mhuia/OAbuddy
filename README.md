@@ -95,6 +95,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | Coupled Ocean–Atmosphere–Wave–Sediment Transport Modeling System (**COAWST**) <br> (include `ROMS`, `WRF`, `WRF_Hydro`, `SWAN`, `WAVEWATCHIII`, `InWave`, `sediment component`, and `sea ice model`) | [USGS](https://www.usgs.gov/) | [Website](https://www.usgs.gov/centers/whcmsc/science/coawst-a-coupled-ocean-atmosphere-wave-sediment-transport-modeling-system) <br> [GitHub](https://github.com/DOI-USGS/COAWST) |
 | Community Earth System Model (**CESM**) <br> (include `CAM`, `CLM`, `CISM`) | [CGD](https://www.cgd.ucar.edu/) <br> [NCAR](https://ncar.ucar.edu/) | [Website](https://www.cesm.ucar.edu/) <br> [Release](https://www.cesm.ucar.edu/models) <br> [GitHub](https://github.com/ESCOMP/CESM) |
 | Mass Conservation Ocean Model (MaCOM 妈祖) | [NMEFC](https://www.nmefc.cn/english) | [Website](https://macom.oceanguide.org.cn/) <br> [MaCOM](https://macom.oceanguide.org.cn/explain/circumflux/) <br> [FVWAM](https://macom.oceanguide.org.cn/explain/wave/) |
+| LASG/IAP Climate Ocean Model (**LICOM**) | - | - |
 
 <br>
 
@@ -136,6 +137,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | GraphCast | [Google DeepMind](https://deepmind.google/) | Nov 14, 2023 | [Science](https://www.science.org/doi/10.1126/science.adi2336) <br> [GitHub](https://github.com/google-deepmind/graphcast) |
 | “风清”“风雷”“风顺” | [CMA](https://www.cma.gov.cn/) / [THU](https://www.tsinghua.edu.cn/) | Jun 18, 2024 | [Report](https://www.tsinghua.edu.cn/info/1182/112354.htm) |
 | NeuralGCM | [Google Research](https://research.google/) | Jul 22, 2024 | [Science](https://www.science.org/doi/10.1126/science.adi2336) <br> [GitHub](https://github.com/neuralgcm/neuralgcm) |
+| “演天”气象预报大模型 | [IAP](https://iap.cas.cn/) | Oct 17, 2024 | [Report](https://iap.cas.cn/gb/xwdt/zhxw/202410/t20241017_7402105.html) <br> [Arxiv](https://arxiv.org/abs/2410.04539) |
 | Aardvark Weather | [Cantab](https://www.cst.cam.ac.uk/) | Mar 20, 2025 | [Nature](https://doi.org/10.1038/s41586-025-08897-0) <br> [GitHub](https://github.com/anna-allen/aardvark-weather-public) |
 
 
