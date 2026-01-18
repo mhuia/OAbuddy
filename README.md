@@ -12,8 +12,8 @@ A curated collection of publicly available oceanic and atmospheric datasets
 </p>
 
 <p align="center">
-  <a> English </a> | 
-  <a href="./README_zh.md"> 简体中文 </a>
+  <a>English</a> | 
+  <a href="./README_zh.md">简体中文</a>
 </p>
 
 <!-- TODO: Standardized terminology -->

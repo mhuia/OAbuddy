@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md"> English </a> | <a> 简体中文 </a>
+  <a href="./README.md">English</a> | <a>简体中文</a>
 </p>
 
 <!-- TODO: 标准化术语 -->
