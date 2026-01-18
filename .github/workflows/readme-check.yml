@@ -1,0 +1,26 @@
+name: README Structure Check
+
+on:
+  push:
+    paths:
+      - README.md
+      - README_zh.md
+  pull_request:
+    paths:
+      - README.md
+      - README_zh.md
+
+jobs:
+  check-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Check README structure
+        run: |
+          python scripts/check_readme_structure.py
