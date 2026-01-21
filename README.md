@@ -54,6 +54,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | WAVEWATCH III | [NOAA/NCEP](https://www.weather.gov/ncep/) | [Home](https://polar.ncep.noaa.gov/waves/index.php?) <br> [Description](https://polar.ncep.noaa.gov/waves/wavewatch/) <br> [Data Access](https://polar.ncep.noaa.gov/waves/download2.shtml?) <br> [How to cite](https://github.com/NOAA-EMC/WW3/wiki/FAQs-page#how-to-cite-wavewatch-iii) |
 | Japanese Reanalysis (**JRA-25**, **DSJRA-55**, **JRA-55**, **JRA-3Q**) | [気象庁](https://www.jma.go.jp/jma/index.html) | [Project Page](https://www.data.jma.go.jp/jra/html/index.html) <br> • [JRA-25](https://www.data.jma.go.jp/jra/html/JRA-25/index_en.html) <br> • [DSJRA-55](https://www.data.jma.go.jp/jra/html/DSJRA-55/index_en.html) <br> • [JRA-55](https://www.data.jma.go.jp/jra/html/JRA-55/index_en.html) <br> • [JRA-3Q](https://www.data.jma.go.jp/jra/html/JRA-3Q/index_en.html) |
 | Coupled Model Intercomparison Project (**CMIP**) | - | [Description](https://wcrp-cmip.org/) |
+| High Resolution Model Intercomparison Project (**HighResMIP**) | [HighResMIP team](https://highresmip.org/about/committee/) | [Description](https://highresmip.org/) |
 
 <br>
 
