@@ -1,4 +1,4 @@
-## Running Long-Term Jobs on a Server Using `screen`
+## Running Long-Term Jobs on a Server Using `screen` or `nohup` 
 
 When you need to run Python scripts on a server for an extended period—such as downloading **ERA5** or **CMEMS** datasets—you can use the `screen` or `nohup` commands.  
 This allows tasks to continue running even if the network connection to the server is interrupted.
