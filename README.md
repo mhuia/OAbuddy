@@ -123,7 +123,6 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | “琅琊”海洋大模型 | [IOCAS](https://qdio.cas.cn/) | Dec 28, 2024 | [Report](https://www.cas.cn/cm/202501/t20250102_5044003.shtml) <br>  [Arxiv](https://doi.org/10.48550/arXiv.2412.18097)  <br> [GitHub](https://github.com/iocaswolfteam/LangYa_v1_0) |
 | “瑶华”珊瑚礁多模态大模型 | [SCSIO](https://scsio.cas.cn/) | Mar, 2025 | [Report](https://web.archive.org/web/20250402154635/https://scsio.cas.cn/news/kydt/202503/t20250321_7563212.html) |
 | “瀚海智语（OceanDS）”海洋大语言模型 | [NMEFC](https://www.nmefc.cn/) | Mar 31, 2025 | [Report](https://web.archive.org/web/20250401011835/https://paper.people.com.cn/rmrb/pc/content/202503/27/content_30064473.html) |
-| 海境·涡流大模型1.0 iEddy | [SCSIO](http://sklto.scsio.ac.cn/) | Sep 21, 2025 | [Report](http://sklto.scsio.ac.cn/zhxw/202509/t20250928_779768.html) |
 | “深蓝生命”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) |
 | “海冰”大模型 | [OUC](https://www.ouc.edu.cn/main.htm) | Sep, 2025 | [Report](https://m.chinanews.com/wap/detail/chs/zw/396326.shtml) |
 | 深海生境智能认知与探索多模态大模型(DePTH-GPT) | [SIO](https://www.sio.org.cn/) / [Zhejiang Lab](https://www.zhejianglab.org/lab/home) | Nov 6, 2025 | [Report](https://www.sio.org.cn/a/snyw/22983.html) |
@@ -131,6 +130,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | 黑潮智能预报系统KIPS | [HHU](https://www.hhu.edu.cn/) | Mar 11, 2025 | [Report](https://kuroshio-prediction.net/article.html?id=9) <br> [Website](https://kuroshio-prediction.net/) |
 | TritonCast |  [THU](https://www.dess.tsinghua.edu.cn/index.htm) | May 26, 2025 | [Arxiv](https://www.dess.tsinghua.edu.cn/index.htm)  | 
 | “瞰海”全链路海洋AI大模型 | [SAI.SYSU](https://sai.sysu.edu.cn/) / [NSOAS](http://www.nsoas.org.cn/index.html) | Nov 24, 2025 | [Report](https://www.ncsti.gov.cn/kjdt/kjrd/202511/t20251126_230096.html) <br> [GitHub](https://github.com/skyocean-kanhai/KanHai) |
+| 海境·区域海洋环境应用大模型1.0 <br> （界面大模型、区域预报大模型、涡流大模型、智能问答大模型） | [SCSIO](http://sklto.scsio.ac.cn/) | Jan, 2026 | [Report](https://mp.weixin.qq.com/s/kzLxA482HqWAxi6O1iZQzg) |
 
 
 ### 🌦️ Meteorology-related Large Models (sorted by release time)
