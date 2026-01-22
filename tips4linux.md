@@ -1,6 +1,6 @@
-## Running Long-Term Jobs on a Server Using `screen` or `nohup` 
+## Running Long-Term Jobs on a Server Using `screen`, `tmux`, or `nohup` 
 
-When you need to run Python scripts on a server for an extended period—such as downloading **ERA5** or **CMEMS** datasets—you can use the `screen` or `nohup` commands.  
+When you need to run Python scripts on a server for an extended period—such as downloading **ERA5** or **CMEMS** datasets—you can use the `screen`, `tmux`, or `nohup` commands.
 This allows tasks to continue running even if the network connection to the server is interrupted.
 
 -------------------------------------------------------------------------------------------------
@@ -30,6 +30,42 @@ This allows tasks to continue running even if the network connection to the serv
     screen -X -S <session_id_or_name> quit
     # (Alternatively, you can reattach to the session and type `exit` to close it)
 
+### Commonly Used `tmux` Commands (interactive debugging)
+
+Here is the [man page](https://man7.org/linux/man-pages/man1/tmux.1.html) and the [wiki](https://github.com/tmux/tmux/wiki) of `tmux`. You can get more details about `tmux`.
+
+- **Create a new tmux session**
+  ***`Bash`***
+  ```bash
+  
+    # Create a new tmux session
+    tmux new -s <session_name>
+    # After creating a new tmux session,
+    # you are in the new tmux seesion automatically.
+    # Inside your new tmux session,
+    # run commands you need, like:
+    conda activate <your_envirnment_name>
+    python your_python_script.py
+
+    # Detach from the current tmux session (the task keeps running)
+    # Press the following key sequence:
+    <Ctrl + B>, <D>
+
+    # List all existing tmux sessions
+    tmux ls
+
+    # Reattach to a specific tmux session
+    tmux attach -t <session_id_or_name>
+
+    # Terminate a tmux session
+    tmux kill-session -t <session_id_or_name>
+
+    # Alternatively, you can terminate a tmux session
+    # inside it using:
+    exit
+    # or
+    <Ctrl + D>
+    
 -------------------------------------------------------------------------------------------------
 
 ### A More Professional `bash + nohup + log` Workflow (production runs)
