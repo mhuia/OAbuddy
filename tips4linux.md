@@ -1,4 +1,5 @@
 <!-- TODO: provide more useful information -->
+<!-- TODO: originize this document in order of cmds -->
 
 ## Running Long-Term Jobs on a Server Using `screen`, `tmux`, or `nohup` 
 
