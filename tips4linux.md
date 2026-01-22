@@ -1,16 +1,18 @@
+<!-- TODO: provide more useful information -->
+
 ## Running Long-Term Jobs on a Server Using `screen`, `tmux`, or `nohup` 
 
 When you need to run Python scripts on a server for an extended period—such as downloading **ERA5** or **CMEMS** datasets—you can use the `screen`, `tmux`, or `nohup` commands.
 This allows tasks to continue running even if the network connection to the server is interrupted.
 
--------------------------------------------------------------------------------------------------
+---
 
 ### Commonly Used `screen` Commands (interactive debugging)
 
+Here is the [man page](https://www.man7.org/linux/man-pages/man1/screen.1.html) of `screen`. You can get more details about `screen`.
+
 - **Create a new screen session**
-  ***`Bash`***
   ```bash
-  
     # Create a new screen session
     screen -S <session_name>
     conda activate <your_envirnment_name>
@@ -18,7 +20,7 @@ This allows tasks to continue running even if the network connection to the serv
 
     # Detach from the current screen session (the task keeps running)
     # Press the following key sequence:
-    Ctrl + A, then press D
+    <Ctrl + A>, <D>
 
     # List all existing screen sessions
     screen -ls
@@ -28,18 +30,23 @@ This allows tasks to continue running even if the network connection to the serv
 
     # Terminate a screen session
     screen -X -S <session_id_or_name> quit
-    # (Alternatively, you can reattach to the session and type `exit` to close it)
+    # Alternatively, you can terminate a screen session
+    # inside it using:
+    exit
+    # or
+    <Ctrl + D>
+
+---
 
 ### Commonly Used `tmux` Commands (interactive debugging)
 
 Here is the [man page](https://man7.org/linux/man-pages/man1/tmux.1.html) and the [wiki](https://github.com/tmux/tmux/wiki) of `tmux`. You can get more details about `tmux`.
 
 - **Create a new tmux session**
-  ***`Bash`***
   ```bash
-  
     # Create a new tmux session
     tmux new -s <session_name>
+
     # After creating a new tmux session,
     # you are in the new tmux seesion automatically.
     # Inside your new tmux session,
@@ -66,7 +73,7 @@ Here is the [man page](https://man7.org/linux/man-pages/man1/tmux.1.html) and th
     # or
     <Ctrl + D>
     
--------------------------------------------------------------------------------------------------
+---
 
 ### A More Professional `bash + nohup + log` Workflow (production runs)
 
