@@ -12,7 +12,7 @@ A curated collection of publicly available oceanic and atmospheric datasets
 </p>
 
 <p align="center">
-  <a>English</a> | 
+  <a>English</a> |
   <a href="./README_zh.md">简体中文</a>
 </p>
 
@@ -47,9 +47,9 @@ A curated collection of publicly available oceanic and atmospheric datasets
 | Global Temperature and Salinity Profile Programme (**GTSPP**) | [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/) | [Description](https://www.ncei.noaa.gov/products/global-temperature-and-salinity-profile-programme) <br> [Download](https://www.ncei.noaa.gov/products/global-temperature-and-salinity-profile-programme) |[Citation](https://www.ncei.noaa.gov/products/global-temperature-and-salinity-profile-programme)
 | World Ocean Database (**WOD**) | [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/) | [Description](https://www.ncei.noaa.gov/products/world-ocean-database) <br> [Download](https://www.ncei.noaa.gov/products/world-ocean-database) <br> [Citation](https://www.ncei.noaa.gov/products/world-ocean-database)
 | World Ocean Atlas (**WOA**) | [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/) | [Description](https://www.ncei.noaa.gov/products/world-ocean-atlas) <br> [Download](https://www.ncei.noaa.gov/products/world-ocean-atlas) <br> [Citation](https://www.ncei.noaa.gov/products/world-ocean-atlas)| Modern-Era Retrospective analysis for Research and Applications, Version 2 (**MERRA-2**) | [NASA GMAO](https://gmao.gsfc.nasa.gov/) | [Description](https://gmao.gsfc.nasa.gov/gmao-products/merra-2/) <br> [Download](https://disc.gsfc.nasa.gov/datasets?project=MERRA-2) <br> [How to cite](https://gmao.gsfc.nasa.gov/gmao-products/merra-2/citing-merra-2-data_merra-2/)
-| NCEP Global Ocean Data Assimilation System (**GODAS**) | [NOAA NCEP CPC](https://www.cpc.ncep.noaa.gov/) | [Description](https://www.cpc.ncep.noaa.gov/products/GODAS/) <br> [Download](https://www.psl.noaa.gov/data/gridded/data.godas.html) <br> [How to cite](https://www.psl.noaa.gov/data/gridded/data.godas.html)| Estimated state of ocean for climate research Version:06a (**ESTOC**) | [JAMSTEC](https://www.jamstec.go.jp/e/) | [Description](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html) <br> [Download](https://www.godac.jamstec.go.jp/jagdas/catalog/estoc/catalog.html) <br> [How to cite](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html)| 
-**SODA**: Simple Ocean Data Assimilation | [NSF NCAR](https://ncar.ucar.edu/) | [Description](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation) <br> [Download](https://dsrs.atmos.umd.edu/DATA/) <br> [How to cite](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation)| 
-Global Ocean Ensemble Physics Reanalysis (**GOEPR**) | [Copernicus Marine Data Store](https://data.marine.copernicus.eu/products) | [Description](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/description) <br> [Download](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/services) <br> [Citation](https://doi.org/10.48670/moi-00024) <br> [How to cite](https://help.marine.copernicus.eu/en/articles/4444611-how-to-cite-copernicus-marine-products-and-services)| 
+| NCEP Global Ocean Data Assimilation System (**GODAS**) | [NOAA NCEP CPC](https://www.cpc.ncep.noaa.gov/) | [Description](https://www.cpc.ncep.noaa.gov/products/GODAS/) <br> [Download](https://www.psl.noaa.gov/data/gridded/data.godas.html) <br> [How to cite](https://www.psl.noaa.gov/data/gridded/data.godas.html)| Estimated state of ocean for climate research Version:06a (**ESTOC**) | [JAMSTEC](https://www.jamstec.go.jp/e/) | [Description](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html) <br> [Download](https://www.godac.jamstec.go.jp/jagdas/catalog/estoc/catalog.html) <br> [How to cite](https://www.godac.jamstec.go.jp/estoc/e/description/06a.html)|
+**SODA**: Simple Ocean Data Assimilation | [NSF NCAR](https://ncar.ucar.edu/) | [Description](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation) <br> [Download](https://dsrs.atmos.umd.edu/DATA/) <br> [How to cite](https://climatedataguide.ucar.edu/climate-data/soda-simple-ocean-data-assimilation)|
+Global Ocean Ensemble Physics Reanalysis (**GOEPR**) | [Copernicus Marine Data Store](https://data.marine.copernicus.eu/products) | [Description](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/description) <br> [Download](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/services) <br> [Citation](https://doi.org/10.48670/moi-00024) <br> [How to cite](https://help.marine.copernicus.eu/en/articles/4444611-how-to-cite-copernicus-marine-products-and-services)|
 NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from July 1999 | [NSF NCAR](https://ncar.ucar.edu/) | [Description](https://gdex.ucar.edu/datasets/d083002/) <br> [Download](https://gdex.ucar.edu/datasets/d083002/dataaccess/#) <br> [Citation](https://gdex.ucar.edu/datasets/d083002/citation/#) |
 | **GHRSST** Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1) (GDS versions 1 and 2) (daily, from 2002-06-01 to 2023-03-15) | [NOAA](https://www.ncei.noaa.gov/) [NCEI](https://www.ncei.noaa.gov/) | [Description](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB) <br> [Download](https://www.ncei.noaa.gov/thredds-ocean/catalog/ghrsst/L4/GLOB/JPL/MUR/catalog.html) <br> [How to cite](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:GHRSST-MUR-JPL-L4-GLOB) |
 | WAVEWATCH III | [NOAA/NCEP](https://www.weather.gov/ncep/) | [Home](https://polar.ncep.noaa.gov/waves/index.php?) <br> [Description](https://polar.ncep.noaa.gov/waves/wavewatch/) <br> [Data Access](https://polar.ncep.noaa.gov/waves/download2.shtml?) <br> [How to cite](https://github.com/NOAA-EMC/WW3/wiki/FAQs-page#how-to-cite-wavewatch-iii) |
@@ -82,7 +82,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | **Tide Prediction Tools** | **`pyTMD` (Python)** [Document](https://pytmd.readthedocs.io/en/latest/) &#124; [GitHub](https://github.com/pyTMD/pyTMD) &#124; [Citation](https://joss.theoj.org/papers/10.21105/joss.08566) &#124; <br> **`TMD` (MATLAB)** [Website(v3.0)](https://ww2.mathworks.cn/matlabcentral/fileexchange/133417-tide-model-driver-tmd-version-3-0) &#124; [GitHub(v3.0)](https://github.com/chadagreene/Tide-Model-Driver) &#124; [Citation(v3.0)](https://joss.theoj.org/papers/10.21105/joss.06018) <br> **`TMD` (MATLAB)** [Website(v2.5)](https://ww2.mathworks.cn/matlabcentral/fileexchange/75599-tide-model-driver-tmd-version-2-5-toolbox-for-matlab) &#124; [GitHub(v2.5)](https://github.com/EarthAndSpaceResearch/TMD_Matlab_Toolbox_v2.5) <br> **`OTPS` (FORTRAN)** [Website](https://www.tpxo.net/otps) |
 | [earth.nullschool.net](https://earth.nullschool.net/) <br> An interactive website to visualize the motion of ocean and atmosphere | [Website](https://earth.nullschool.net/) <br> [Author: Cameron Beccario](https://github.com/cambecc) <br> [Nullschool Technologies Inc.](https://nullschool.net/)
 | [**netCDF Operators (NCO)**](https://nco.sourceforge.net/) <br> A set of powerful netCDF-processing command-line programs | [Website](https://nco.sourceforge.net/) <br> [User Guide](https://nco.sourceforge.net/nco.html#NCO-User-Guide) <br> [GitHub](https://github.com/nco/nco) |
-| [Thermodynamic Equation Of Seawater - 2010 (**TEOS-10**)](https://www.teos-10.org/) <br> A toolbox for calculating the thermodynamic properties of seawater | [Website](https://www.teos-10.org/) <br> [Software (GSW & SIA)](https://www.teos-10.org/software.htm) (supporting `MATLAB`, `Python`, `FORTRAN`...) <br> [Contents](https://www.teos-10.org/pubs/gsw/html/gsw_contents.html) | 
+| [Thermodynamic Equation Of Seawater - 2010 (**TEOS-10**)](https://www.teos-10.org/) <br> A toolbox for calculating the thermodynamic properties of seawater | [Website](https://www.teos-10.org/) <br> [Software (GSW & SIA)](https://www.teos-10.org/software.htm) (supporting `MATLAB`, `Python`, `FORTRAN`...) <br> [Contents](https://www.teos-10.org/pubs/gsw/html/gsw_contents.html) |
 | Generic Mapping Tools (**GMT**) | [GMT developer](https://docs.gmt-china.org/latest/intro/) | [Website](https://www.generic-mapping-tools.org/) <br> [Doc](https://docs.generic-mapping-tools.org/latest/) <br> [GitHub](https://github.com/GenericMappingTools/gmt) |
 
 <br>
@@ -100,6 +100,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | MIT General Circulation Model (**MITgcm**) | [MIT](https://web.mit.edu/) | [Website](http://mitgcm.org/) <br> [GitHub](https://github.com/MITgcm/MITgcm) <br> [Doc](https://mitgcm.readthedocs.io/en/latest/) |
 | Parallel Ocean Program (**POP**) <br> (part of `CESM`) | [LANL](https://www.lanl.gov/) <br> [NCAR](https://ncar.ucar.edu/)| [Website](https://www.cesm.ucar.edu/models/pop)|
 | Hybrid Coordinate Ocean Model (**HYCOM**) | [HYCOM Consortium](https://www.hycom.org/) | [Website](https://www.hycom.org/) <br> [GitHub](https://github.com/HYCOM) |
+| Semi-implicit Cross-scale Hydroscience Integrated System Model (**SCHISM**) | [Team SCHISM](https://ccrm.vims.edu/schismweb/team.html) | [Website](https://ccrm.vims.edu/schismweb/) <br> [GitHub](https://github.com/schism-dev) |
 | Simulating WAves Nearshore (**SWAN**) | [TUDelft](https://www.tudelft.nl/en/) | [Website](https://swanmodel.sourceforge.io/) <br> [Reslease](https://swanmodel.sourceforge.io/download/download.htm) <br> [GitLab](https://gitlab.tudelft.nl/citg/wavemodels/swan) |
 | **WAVEWATCH III** (WW3) | [NCEP](https://www.weather.gov/ncep/) | [GitHub](https://github.com/NOAA-EMC/WW3) |
 | PALM | [PALM Group](https://www.meteo.uni-hannover.de/en/research/boundary-layer-meteorology) | [Website](https://palm.muk.uni-hannover.de/trac) <br> [Doc](https://docs.palm-model.com/) |
@@ -131,7 +132,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | 深海生境智能认知与探索多模态大模型(DePTH-GPT) | [SIO](https://www.sio.org.cn/) / [Zhejiang Lab](https://www.zhejianglab.org/lab/home) | Nov 6, 2025 | [Report](https://www.sio.org.cn/a/snyw/22983.html) |
 | NAUTILUS 水下多模态大模型 | [HUST](https://www.hust.edu.cn/) | Oct 31, 2025 | [Website](https://h-embodvis.github.io/NAUTILUS/) <br> [Arxiv](https://arxiv.org/abs/2510.27481) <br> [GitHub](https://github.com/H-EmbodVis/NAUTILUS) |
 | 黑潮智能预报系统KIPS | [HHU](https://www.hhu.edu.cn/) | Mar 11, 2025 | [Report](https://kuroshio-prediction.net/article.html?id=9) <br> [Website](https://kuroshio-prediction.net/) |
-| TritonCast |  [THU](https://www.dess.tsinghua.edu.cn/index.htm) | May 26, 2025 | [Arxiv](https://www.dess.tsinghua.edu.cn/index.htm)  | 
+| TritonCast |  [THU](https://www.dess.tsinghua.edu.cn/index.htm) | May 26, 2025 | [Arxiv](https://www.dess.tsinghua.edu.cn/index.htm)  |
 | “瞰海”全链路海洋AI大模型 | [SAI.SYSU](https://sai.sysu.edu.cn/) / [NSOAS](http://www.nsoas.org.cn/index.html) | Nov 24, 2025 | [Report](https://www.ncsti.gov.cn/kjdt/kjrd/202511/t20251126_230096.html) <br> [GitHub](https://github.com/skyocean-kanhai/KanHai) |
 | 海境·区域海洋环境应用大模型1.0 <br> （界面大模型、区域预报大模型、涡流大模型、智能问答大模型） | [SCSIO](http://sklto.scsio.ac.cn/) | Jan, 2026 | [Report](https://scsio.cas.cn/news/kydt/202601/t20260121_8115060.html) |
 
@@ -185,7 +186,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - Geosat
 - Landsat
 - Seasat
-- ...... 
+- ......
 </details>
 
 <details>
@@ -193,7 +194,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 - NCEP/NCAR Reanalysis
 - ORAS5
-- ...... 
+- ......
 </details>
 
 <details>
@@ -202,12 +203,12 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - GFS (Global Forecast System)
 - HYCOM
 - CMEMS Global Ocean Forecast
-- ...... 
+- ......
 </details>
 
 <details>
 <summary>In-stu observation</summary>
 
 - TAO/TRITON / PIRATA / RAMA (for ENSO)
-- ...... 
+- ......
 </details>
