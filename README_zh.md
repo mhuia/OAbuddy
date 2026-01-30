@@ -72,6 +72,7 @@ NCEP **FNL** Operational Model Global Tropospheric Analyses, continuing from Jul
 | Monthly Climate/Ocean Indices (Time-Series) | [NOAA/PSL](https://psl.noaa.gov/) | [Website](https://psl.noaa.gov/data/timeseries/month/) <br> Including **`ENSO Indices`**, **`Non-ENSO`**, **`Atmosphere Teleconnections`** and so on |
 | [NOAA/PSL data](https://psl.noaa.gov/data/timeseries/month/) | - | - |
 | Climate Change Initiative (CCI) | [ESA](https://www.esa.int/) | [Website](https://climate.esa.int/en/#/) <br> [Projects](https://climate.esa.int/en/projects/)
+| [AVISO+](https://www.aviso.altimetry.fr/en/home.html) | - | Registration is needed |
 
 <br>
 
