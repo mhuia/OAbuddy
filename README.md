@@ -5,10 +5,12 @@ A curated collection of publicly available oceanic and atmospheric datasets
 </em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/mhuia/OAbuddy" alt="Last Commit">
-  <img src="https://img.shields.io/github/issues/mhuia/OAbuddy" alt="Open Issues">
-  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions Welcome">
-  <img src="https://github.com/mhuia/OABuddy/actions/workflows/readme-check.yml/badge.svg" alt="Check">
+  <img src="https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge" alt="Contributions Welcome">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/mhuia/OAbuddy?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues/mhuia/OAbuddy?style=for-the-badge" alt="Open Issues">
+  <img src="https://img.shields.io/github/actions/workflow/status/mhuia/OABuddy/readme-check.yml?style=for-the-badge" alt="Check">
 </p>
 
 <p align="center">
